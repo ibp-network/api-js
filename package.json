@@ -1,0 +1,28 @@
+{
+  "name": "ibp-api",
+  "version": "0.2.0",
+  "description": "API for ibp-monitor (js)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibp-network/api-js.git"
+  },
+  "keywords": [
+    "ibp"
+  ],
+  "author": "derek@metaspan.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibp-network/api-js/issues"
+  },
+  "homepage": "https://github.com/ibp-network/api-js#readme",
+  "dependencies": {
+    "events": "^3.3.0",
+    "serialize-error": "^11.0.0",
+    "socket.io-client": "^4.7.0"
+  }
+}
