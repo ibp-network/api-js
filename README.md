@@ -2,6 +2,10 @@
 API for ibp-monitor (js)
 
 
+## Dependencies
+
+- ibp-monitor version 0.2.n+ (currently in develop branch - https://github.com/ibp-network/ibp-monitor/tree/develop)
+
 ## Example usage
 
 ```javascript
